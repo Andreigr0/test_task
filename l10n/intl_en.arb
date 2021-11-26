@@ -1,0 +1,5 @@
+{
+  "unknownError": "Some meaningful error description",
+  "reposList": "Repos list",
+  "checkOutRepository": "Check out repository {url}"
+}
